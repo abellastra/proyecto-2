@@ -24,3 +24,9 @@ body{
     font-size: 20px;
 
 }
+.button{
+    display: inline-block;
+    width:10%;
+background-color: brown;
+color: aliceblue    ;
+}
