@@ -2,12 +2,25 @@ body{
     text-align: center;
     border: 1px solid  ;
 }
+.contenedor-del-titulo{
+    background-color: rgb(61, 58, 58);
+
+}
 .titulo{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 2px 0 50px;
-    border: 2px solid ;
+    border: 5px solid  color(rgb rgb(81, 81, 133));
     display: inline-block;
+    color: aliceblue;
+    background-color: black;
+    width: 50%;
+}
+.para{
+    background-color: rgb(167, 212, 244);
+    margin: 10px;
 }
 .parafo{
+   margin: 0;
+    color: black;
     font-size: 20px;
+
 }
